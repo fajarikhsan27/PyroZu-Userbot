@@ -11,7 +11,7 @@ from Kazu.helpers.misc import heroku, create_botlog
 BOT_VER = "2.0.0"
 CMD_HANDLER = ["." "," "?" "!"]
 MSG_ON = """
-💢 **𝙿𝚈𝚁𝙾𝚉𝚄-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙰𝙺𝚃𝙸𝙵** 💢
+💢 **MEMEK-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙰𝙺𝚃𝙸𝙵** 💢
 ╼┅━━━━━━━━━━╍━━━━━━━━━━┅╾
 ❍▹ **Usᴇʀʙᴏᴛ Vᴇʀsɪᴏɴ -** `{}`
 ❍▹ **Kᴇᴛɪᴋ** `{}alive` **Uɴᴛᴜᴋ Mᴇɴɢᴇᴄᴇᴋ Bᴏᴛ**
@@ -45,7 +45,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("Kazu").info("PyroZu-Userbot Telah Aktif")
+    LOGGER("Kazu").info("Memek-Userbot Telah Aktif")
     heroku()
     install()
     LOOP.run_until_complete(main())
